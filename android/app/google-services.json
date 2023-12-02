@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344918966847",
+    "project_id": "unilink-drfi2t",
+    "storage_bucket": "unilink-drfi2t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344918966847:android:ea5930cafd443ac959ee8a",
+        "android_client_info": {
+          "package_name": "com.mycompany.unilink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwvVPBJrSMKg1ENuDheuhFa2oLTeSgXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

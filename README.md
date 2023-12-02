@@ -1,3 +1,7 @@
-# MSBD5017-Project-Source-Code
+# Unilink
 
-UniLink App, which is a blockchain-based university review system.
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
