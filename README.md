@@ -1,6 +1,6 @@
 # Unilink
 
-A new Flutter project.
+A new Flutter project, which is a blockchain-based University Review System App
 
 ## Getting Started
 
